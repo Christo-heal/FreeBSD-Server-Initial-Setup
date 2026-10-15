@@ -231,11 +231,6 @@ Replace `SERVER_IP` with the actual server address.
 - The stress test is optional and should be performed only after reviewing the server's resource capacity.
 - Installing packages or upgrading dependencies may affect existing system configurations.
 
-## 📄 License
-
-Choose and add an appropriate license before distributing or publishing this project for public use.
-
 ---
 
 **FreeBSD Server Initialization**  
-*Automate the setup. Verify the configuration. Test the performance.*
